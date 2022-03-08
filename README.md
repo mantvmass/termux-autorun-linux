@@ -4,7 +4,7 @@
 <!-- [ ให้ติดตั้ง Linux(Ubuntu) เมนูที่ 1 ผ่าน os-installer ให้เรียบร้อยก่อน ](https://github.com/mantvmass/os-installer) -->
 
 ```
-pkg install namo && cd /data/data/com.termux/files/usr/etc && nano profile
+pkg install nano && cd /data/data/com.termux/files/usr/etc && nano profile
 ```
 
 เมื่อใช้คำสั่งด้านบนเสร็จแล้ว และไม่มีerror ขั้นตอนต่อไปเราจะมาเพิ่มข้อมูลในไฟล์ profile กันโดยที่ไฟล์นี้
